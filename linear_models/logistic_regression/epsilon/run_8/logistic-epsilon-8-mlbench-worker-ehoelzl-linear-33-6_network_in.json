@@ -1,0 +1,812 @@
+[
+    {
+        "date": "2020-03-03T17:26:48Z",
+        "value": "0.0013828277587890625",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:27:01Z",
+        "value": "0.0013828277587890625",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:27:17Z",
+        "value": "0.0013828277587890625",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:27:28Z",
+        "value": "0.0013828277587890625",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:27:54Z",
+        "value": "1416.7704544067383",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:28:26Z",
+        "value": "6162.603178977966",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:28:39Z",
+        "value": "6297.754714012146",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:28:59Z",
+        "value": "6297.754714012146",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:29:16Z",
+        "value": "6297.754714012146",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:29:30Z",
+        "value": "6297.754714012146",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:29:59Z",
+        "value": "6297.754714012146",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:30:14Z",
+        "value": "6297.754714012146",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:30:35Z",
+        "value": "6297.754714012146",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:30:46Z",
+        "value": "6297.754714012146",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:31:12Z",
+        "value": "6468.711196899414",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:31:24Z",
+        "value": "7872.55652141571",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:31:37Z",
+        "value": "7872.55652141571",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:31:52Z",
+        "value": "7872.55652141571",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:32:04Z",
+        "value": "7872.55652141571",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:32:19Z",
+        "value": "7872.556588172913",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:32:30Z",
+        "value": "7872.556588172913",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:32:58Z",
+        "value": "7872.556588172913",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:33:17Z",
+        "value": "7872.556956291199",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:33:31Z",
+        "value": "7872.557036399841",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:33:49Z",
+        "value": "7872.557036399841",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:34:11Z",
+        "value": "7872.557036399841",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:34:29Z",
+        "value": "7872.557036399841",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:34:50Z",
+        "value": "7872.557036399841",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:35:09Z",
+        "value": "7872.557036399841",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:35:38Z",
+        "value": "7872.557036399841",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:35:56Z",
+        "value": "7872.557036399841",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:36:12Z",
+        "value": "7872.557036399841",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:36:28Z",
+        "value": "7872.557242393494",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:36:46Z",
+        "value": "7872.557242393494",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:37:04Z",
+        "value": "7872.557242393494",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:37:15Z",
+        "value": "7872.557242393494",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:37:31Z",
+        "value": "7872.557242393494",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:37:46Z",
+        "value": "7872.557242393494",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:38:16Z",
+        "value": "7872.557242393494",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:38:29Z",
+        "value": "7874.0983209609985",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:38:44Z",
+        "value": "7896.507586479187",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:38:59Z",
+        "value": "7923.194984436035",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:39:17Z",
+        "value": "7956.768156051636",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:39:29Z",
+        "value": "7977.772050857544",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:39:40Z",
+        "value": "7999.201813697815",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:39:51Z",
+        "value": "8018.179076194763",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:40:03Z",
+        "value": "8039.161121368408",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:40:18Z",
+        "value": "8050.948712348938",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:40:29Z",
+        "value": "8050.948712348938",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:40:47Z",
+        "value": "8050.948712348938",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:41:07Z",
+        "value": "8050.948712348938",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:41:29Z",
+        "value": "8050.948712348938",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:41:47Z",
+        "value": "8050.948712348938",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:42:11Z",
+        "value": "8050.948712348938",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:42:26Z",
+        "value": "8050.948712348938",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:42:53Z",
+        "value": "8050.948712348938",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:43:03Z",
+        "value": "8050.948712348938",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:43:23Z",
+        "value": "8050.948712348938",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:43:43Z",
+        "value": "8050.948712348938",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:44:08Z",
+        "value": "8050.948712348938",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:44:20Z",
+        "value": "8050.948712348938",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:44:46Z",
+        "value": "8050.948712348938",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:45:03Z",
+        "value": "8050.948712348938",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:45:21Z",
+        "value": "8050.94891834259",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:45:41Z",
+        "value": "8050.94891834259",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:46:07Z",
+        "value": "8050.94891834259",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:46:24Z",
+        "value": "8050.94891834259",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:46:49Z",
+        "value": "8050.94891834259",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:47:00Z",
+        "value": "8050.94891834259",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:47:27Z",
+        "value": "8050.94891834259",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:47:41Z",
+        "value": "8050.94891834259",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:48:07Z",
+        "value": "8050.94891834259",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:48:27Z",
+        "value": "8050.94891834259",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:48:53Z",
+        "value": "8050.94891834259",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:49:12Z",
+        "value": "8050.94891834259",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:49:41Z",
+        "value": "8050.94891834259",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:49:56Z",
+        "value": "8050.94891834259",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:50:23Z",
+        "value": "8050.94891834259",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:50:36Z",
+        "value": "8050.9490442276",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:50:55Z",
+        "value": "8050.949124336243",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:51:12Z",
+        "value": "8050.949124336243",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:51:32Z",
+        "value": "8050.949124336243",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:51:51Z",
+        "value": "8050.949124336243",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:52:10Z",
+        "value": "8050.949124336243",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:52:28Z",
+        "value": "8050.949124336243",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:52:50Z",
+        "value": "8050.949124336243",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:53:01Z",
+        "value": "8050.949124336243",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:53:20Z",
+        "value": "8050.949124336243",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:53:30Z",
+        "value": "8050.949124336243",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:54:00Z",
+        "value": "8050.949124336243",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:54:15Z",
+        "value": "8050.949124336243",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:54:34Z",
+        "value": "8050.949124336243",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:54:48Z",
+        "value": "8050.949124336243",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:55:05Z",
+        "value": "8050.949124336243",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:55:22Z",
+        "value": "8050.949124336243",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:55:51Z",
+        "value": "8050.949124336243",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:56:05Z",
+        "value": "8050.949250221252",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:56:16Z",
+        "value": "8050.949330329895",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:56:34Z",
+        "value": "8050.949397087097",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:56:53Z",
+        "value": "8050.949397087097",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:57:21Z",
+        "value": "8050.949397087097",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:57:41Z",
+        "value": "8050.949397087097",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:58:09Z",
+        "value": "8050.949397087097",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:58:24Z",
+        "value": "8050.949397087097",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:58:54Z",
+        "value": "8050.949463844299",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:59:11Z",
+        "value": "8050.949463844299",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:59:33Z",
+        "value": "8050.949463844299",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T17:59:47Z",
+        "value": "8050.949463844299",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:00:14Z",
+        "value": "8050.949463844299",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:00:28Z",
+        "value": "8050.949463844299",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:00:49Z",
+        "value": "8050.949463844299",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:01:05Z",
+        "value": "8050.949463844299",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:01:31Z",
+        "value": "8050.949589729309",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:01:44Z",
+        "value": "8050.949669837952",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:01:55Z",
+        "value": "8050.949669837952",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:02:12Z",
+        "value": "8050.949669837952",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:02:31Z",
+        "value": "8050.949669837952",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:02:53Z",
+        "value": "8050.949669837952",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:03:06Z",
+        "value": "8050.949669837952",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:03:36Z",
+        "value": "8050.949669837952",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:03:54Z",
+        "value": "8050.949669837952",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:04:21Z",
+        "value": "8050.949669837952",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:04:33Z",
+        "value": "8050.949669837952",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:04:54Z",
+        "value": "8050.949669837952",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:05:05Z",
+        "value": "8050.949669837952",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:05:26Z",
+        "value": "8050.949669837952",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:05:42Z",
+        "value": "8050.949669837952",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:06:05Z",
+        "value": "8050.949669837952",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:06:24Z",
+        "value": "8050.949669837952",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:06:40Z",
+        "value": "8050.949669837952",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:06:52Z",
+        "value": "8050.949669837952",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:07:21Z",
+        "value": "8050.949875831604",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:07:38Z",
+        "value": "8050.949875831604",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:07:59Z",
+        "value": "8050.949875831604",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:08:14Z",
+        "value": "8050.949875831604",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:08:31Z",
+        "value": "8050.949875831604",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:08:44Z",
+        "value": "8050.949875831604",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:09:09Z",
+        "value": "8050.949875831604",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:09:20Z",
+        "value": "8050.949875831604",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:09:42Z",
+        "value": "8050.949875831604",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:10:01Z",
+        "value": "8050.949875831604",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:10:22Z",
+        "value": "8050.949875831604",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:10:40Z",
+        "value": "8050.949875831604",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:10:57Z",
+        "value": "8050.949875831604",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:11:09Z",
+        "value": "8050.949875831604",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:11:26Z",
+        "value": "8050.949875831604",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:11:38Z",
+        "value": "8050.949875831604",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:12:01Z",
+        "value": "8050.949875831604",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:12:12Z",
+        "value": "8050.949875831604",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:12:41Z",
+        "value": "8050.950081825256",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:12:55Z",
+        "value": "8050.950081825256",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:13:19Z",
+        "value": "8050.950081825256",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:13:37Z",
+        "value": "8050.950081825256",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:14:07Z",
+        "value": "8050.950081825256",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:14:19Z",
+        "value": "8050.950081825256",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:14:36Z",
+        "value": "8050.950081825256",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:14:54Z",
+        "value": "8050.950081825256",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:15:12Z",
+        "value": "8050.950081825256",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:15:23Z",
+        "value": "8050.950081825256",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:15:44Z",
+        "value": "8050.950081825256",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:16:04Z",
+        "value": "8050.950081825256",
+        "cumulative": true
+    },
+    {
+        "date": "2020-03-03T18:16:33Z",
+        "value": "8050.950081825256",
+        "cumulative": true
+    }
+]

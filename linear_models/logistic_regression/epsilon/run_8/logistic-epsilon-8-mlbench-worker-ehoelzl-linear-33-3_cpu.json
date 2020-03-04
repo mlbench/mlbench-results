@@ -1,0 +1,977 @@
+[
+    {
+        "date": "2020-03-03T17:26:56Z",
+        "value": "0.016500235",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:27:14Z",
+        "value": "0.0",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:27:37Z",
+        "value": "0.0",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:27:48Z",
+        "value": "0.398691844",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:28:03Z",
+        "value": "1.049033101",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:28:27Z",
+        "value": "0.719740839",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:28:51Z",
+        "value": "0.016064684",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:29:02Z",
+        "value": "0.038338519",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:29:18Z",
+        "value": "0.046116258",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:29:29Z",
+        "value": "0.048007902",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:29:45Z",
+        "value": "0.041675457",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:29:57Z",
+        "value": "0.051311339",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:30:10Z",
+        "value": "0.040102175",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:30:30Z",
+        "value": "0.474868816",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:30:48Z",
+        "value": "0.981526043",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:31:01Z",
+        "value": "0.999012748",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:31:16Z",
+        "value": "0.999303262",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:31:32Z",
+        "value": "0.999634924",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:31:47Z",
+        "value": "0.998801344",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:32:07Z",
+        "value": "0.999579647",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:32:22Z",
+        "value": "0.99946868",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:32:39Z",
+        "value": "0.998438073",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:32:53Z",
+        "value": "0.999499289",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:33:07Z",
+        "value": "0.999421463",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:33:25Z",
+        "value": "0.999209011",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:33:43Z",
+        "value": "0.999354576",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:34:01Z",
+        "value": "0.998841101",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:34:12Z",
+        "value": "0.99918621",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:34:24Z",
+        "value": "0.999481605",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:34:42Z",
+        "value": "0.999693907",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:34:54Z",
+        "value": "0.999493471",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:35:10Z",
+        "value": "0.998996611",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:35:29Z",
+        "value": "0.999428659",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:35:41Z",
+        "value": "0.99895297",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:35:56Z",
+        "value": "0.99941081",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:36:15Z",
+        "value": "0.99958437",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:36:33Z",
+        "value": "0.99942433",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:36:51Z",
+        "value": "0.999392877",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:37:08Z",
+        "value": "0.999701073",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:37:20Z",
+        "value": "0.999091524",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:37:34Z",
+        "value": "0.998710453",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:37:49Z",
+        "value": "0.998906068",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:38:04Z",
+        "value": "0.998916207",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:38:17Z",
+        "value": "0.999198853",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:38:36Z",
+        "value": "1.004587834",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:38:56Z",
+        "value": "1.020824945",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:39:11Z",
+        "value": "1.017561569",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:39:27Z",
+        "value": "1.019529993",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:39:38Z",
+        "value": "1.016884764",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:39:56Z",
+        "value": "1.021593347",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:40:09Z",
+        "value": "1.020284084",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:40:28Z",
+        "value": "1.000248517",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:40:45Z",
+        "value": "0.999290625",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:40:58Z",
+        "value": "0.99952297",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:41:14Z",
+        "value": "0.998983202",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:41:33Z",
+        "value": "0.999527547",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:41:53Z",
+        "value": "0.999355273",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:42:04Z",
+        "value": "0.998685003",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:42:18Z",
+        "value": "0.999342662",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:42:35Z",
+        "value": "0.99947255",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:42:47Z",
+        "value": "0.999385696",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:43:02Z",
+        "value": "0.999258517",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:43:20Z",
+        "value": "0.99944301",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:43:35Z",
+        "value": "0.999256042",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:43:53Z",
+        "value": "0.99946258",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:44:11Z",
+        "value": "0.999087437",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:44:22Z",
+        "value": "0.99937459",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:44:38Z",
+        "value": "0.99952732",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:44:56Z",
+        "value": "0.99928166",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:45:14Z",
+        "value": "0.999497384",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:45:26Z",
+        "value": "0.999699498",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:45:37Z",
+        "value": "0.999730707",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:45:48Z",
+        "value": "0.999857578",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:46:06Z",
+        "value": "0.999796543",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:46:17Z",
+        "value": "0.999893992",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:46:32Z",
+        "value": "0.999570479",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:46:48Z",
+        "value": "0.999606437",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:47:07Z",
+        "value": "0.999790329",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:47:24Z",
+        "value": "0.999862796",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:47:36Z",
+        "value": "0.999856045",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:47:48Z",
+        "value": "0.999630056",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:48:05Z",
+        "value": "0.999858592",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:48:22Z",
+        "value": "0.999805078",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:48:34Z",
+        "value": "0.999912582",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:48:45Z",
+        "value": "0.999771884",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:49:00Z",
+        "value": "0.999904461",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:49:16Z",
+        "value": "0.999887495",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:49:26Z",
+        "value": "0.999803834",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:49:43Z",
+        "value": "0.999869786",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:50:02Z",
+        "value": "0.999887146",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:50:19Z",
+        "value": "0.999858144",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:50:37Z",
+        "value": "0.999707953",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:50:55Z",
+        "value": "0.999671721",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:51:11Z",
+        "value": "0.999866214",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:51:26Z",
+        "value": "0.999901629",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:51:37Z",
+        "value": "0.999822482",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:51:50Z",
+        "value": "0.99947806",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:52:07Z",
+        "value": "0.999841096",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:52:27Z",
+        "value": "0.999811317",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:52:40Z",
+        "value": "0.999826094",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:52:58Z",
+        "value": "0.999932795",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:53:17Z",
+        "value": "0.999822455",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:53:35Z",
+        "value": "0.999911508",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:53:45Z",
+        "value": "0.99986687",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:53:57Z",
+        "value": "0.999872677",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:54:14Z",
+        "value": "0.999876224",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:54:28Z",
+        "value": "0.999903842",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:54:42Z",
+        "value": "0.999964167",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:54:53Z",
+        "value": "0.999827991",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:55:09Z",
+        "value": "0.999850679",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:55:24Z",
+        "value": "0.999912708",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:55:38Z",
+        "value": "0.999927682",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:55:51Z",
+        "value": "0.999830894",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:56:03Z",
+        "value": "0.999934086",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:56:16Z",
+        "value": "0.999089913",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:56:30Z",
+        "value": "0.999584486",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:56:48Z",
+        "value": "0.999288174",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:57:03Z",
+        "value": "0.999543008",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:57:15Z",
+        "value": "0.999124719",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:57:27Z",
+        "value": "0.999487223",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:57:46Z",
+        "value": "0.999533225",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:57:58Z",
+        "value": "0.999847025",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:58:09Z",
+        "value": "0.999899598",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:58:24Z",
+        "value": "0.999850322",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:58:42Z",
+        "value": "0.999891308",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:58:56Z",
+        "value": "0.999816401",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:59:12Z",
+        "value": "0.999902449",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:59:32Z",
+        "value": "0.999888127",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T17:59:48Z",
+        "value": "0.999900824",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:00:06Z",
+        "value": "0.999847545",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:00:19Z",
+        "value": "0.999730563",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:00:30Z",
+        "value": "0.999903499",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:00:41Z",
+        "value": "0.999778735",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:01:00Z",
+        "value": "0.999792707",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:01:20Z",
+        "value": "0.999874458",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:01:35Z",
+        "value": "0.999940502",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:01:48Z",
+        "value": "0.99974475",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:02:02Z",
+        "value": "0.999846713",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:02:13Z",
+        "value": "0.999817655",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:02:28Z",
+        "value": "0.999943107",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:02:43Z",
+        "value": "0.999717742",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:03:01Z",
+        "value": "0.999921758",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:03:20Z",
+        "value": "0.999837549",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:03:33Z",
+        "value": "0.999898583",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:03:50Z",
+        "value": "0.999869157",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:04:05Z",
+        "value": "0.999861385",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:04:22Z",
+        "value": "0.999855729",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:04:32Z",
+        "value": "0.999931174",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:04:46Z",
+        "value": "0.999891232",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:04:59Z",
+        "value": "0.999888441",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:05:16Z",
+        "value": "0.999910278",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:05:26Z",
+        "value": "0.999846809",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:05:41Z",
+        "value": "0.999866408",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:05:51Z",
+        "value": "0.999955525",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:06:09Z",
+        "value": "0.999876043",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:06:25Z",
+        "value": "0.999810219",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:06:41Z",
+        "value": "0.999931117",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:06:58Z",
+        "value": "0.999891998",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:07:09Z",
+        "value": "0.999779619",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:07:22Z",
+        "value": "0.999949533",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:07:38Z",
+        "value": "0.999898426",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:07:48Z",
+        "value": "0.999834773",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:08:06Z",
+        "value": "0.999952225",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:08:20Z",
+        "value": "0.999861662",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:08:38Z",
+        "value": "0.999842469",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:08:52Z",
+        "value": "0.999823553",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:09:09Z",
+        "value": "0.999923054",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:09:24Z",
+        "value": "0.999824761",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:09:43Z",
+        "value": "0.999912517",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:09:54Z",
+        "value": "0.999926885",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:10:12Z",
+        "value": "0.999874136",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:10:26Z",
+        "value": "0.999885197",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:10:46Z",
+        "value": "0.9998917",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:11:04Z",
+        "value": "0.999842002",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:11:17Z",
+        "value": "0.999931797",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:11:34Z",
+        "value": "0.999832686",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:11:47Z",
+        "value": "0.999898125",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:12:06Z",
+        "value": "0.999949173",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:12:24Z",
+        "value": "0.999590852",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:12:35Z",
+        "value": "0.999525492",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:12:53Z",
+        "value": "0.999687853",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:13:08Z",
+        "value": "0.999671315",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:13:22Z",
+        "value": "0.999530194",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:13:39Z",
+        "value": "0.999495558",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:13:53Z",
+        "value": "0.999717554",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:14:05Z",
+        "value": "0.999757974",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:14:19Z",
+        "value": "0.999309233",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:14:38Z",
+        "value": "0.999639899",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:14:55Z",
+        "value": "0.99957225",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:15:07Z",
+        "value": "0.999617173",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:15:26Z",
+        "value": "0.999673178",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:15:46Z",
+        "value": "0.999679121",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:16:05Z",
+        "value": "0.999523624",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:16:18Z",
+        "value": "0.999664678",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T18:16:38Z",
+        "value": "0.999653415",
+        "cumulative": false
+    }
+]

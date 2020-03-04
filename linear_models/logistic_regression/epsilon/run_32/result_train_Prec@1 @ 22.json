@@ -1,0 +1,57 @@
+[
+    {
+        "date": "2020-03-03T21:00:39.700Z",
+        "value": "54.0",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T21:02:04.614Z",
+        "value": "56.0",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T21:03:14.343Z",
+        "value": "53.0",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T21:04:18.237Z",
+        "value": "61.0",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T21:06:21.813Z",
+        "value": "67.0",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T21:06:22.136Z",
+        "value": "68.0",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T21:06:22.441Z",
+        "value": "67.0",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T21:06:25.059Z",
+        "value": "72.0",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T21:06:34.035Z",
+        "value": "86.0",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T21:06:34.362Z",
+        "value": "89.0",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T21:06:35.987Z",
+        "value": "89.0",
+        "cumulative": false
+    }
+]

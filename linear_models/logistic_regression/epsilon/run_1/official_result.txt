@@ -1,0 +1,1 @@
+89% Top 1 Validation Accuracy reached in 89.531 seconds, Compute: 68.33966827392578 seconds, Communication: 19.074321031570435 seconds

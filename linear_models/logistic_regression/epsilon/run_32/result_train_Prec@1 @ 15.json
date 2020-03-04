@@ -1,0 +1,107 @@
+[
+    {
+        "date": "2020-03-03T21:00:39.708Z",
+        "value": "46.0",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T21:02:04.610Z",
+        "value": "66.0",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T21:03:14.343Z",
+        "value": "60.0",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T21:04:18.236Z",
+        "value": "67.0",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T21:05:21.745Z",
+        "value": "54.0",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T21:06:24.745Z",
+        "value": "66.0",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T21:06:26.179Z",
+        "value": "73.0",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T21:06:28.969Z",
+        "value": "87.0",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T21:06:29.276Z",
+        "value": "83.0",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T21:06:29.902Z",
+        "value": "81.0",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T21:06:30.259Z",
+        "value": "83.0",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T21:06:30.596Z",
+        "value": "85.0",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T21:06:30.886Z",
+        "value": "88.0",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T21:06:31.744Z",
+        "value": "85.0",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T21:06:32.700Z",
+        "value": "86.0",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T21:06:35.091Z",
+        "value": "82.0",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T21:06:35.674Z",
+        "value": "87.0",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T21:06:35.983Z",
+        "value": "91.0",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T21:06:36.362Z",
+        "value": "90.0",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T21:06:36.708Z",
+        "value": "91.0",
+        "cumulative": false
+    },
+    {
+        "date": "2020-03-03T21:06:37.046Z",
+        "value": "89.0",
+        "cumulative": false
+    }
+]
