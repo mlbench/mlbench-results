@@ -1,11 +1,11 @@
-import matplotlib.pyplot as plt
-from zipfile import ZipFile
-import pandas as pd
 import json
-import seaborn as sns
-from glob import glob
 import os
+from glob import glob
+from zipfile import ZipFile
+
 import click
+import pandas as pd
+import seaborn as sns
 
 # Files needed to generate the plots
 RESULT_FILES = {
@@ -47,7 +47,7 @@ def read_values_from_json(json_list):
 
 
 def extract_values_for_worker(zip_file, worker):
-    """ Extracts all the values from `RESULT_FILES` for the given worker
+    """Extracts all the values from `RESULT_FILES` for the given worker
 
     Args:
         zip_file (ZipFile): The zipfile containing the metrics
@@ -84,7 +84,7 @@ def extract_values_for_worker(zip_file, worker):
 
 
 def parse_result_zip(filename):
-    """ Parses an archive containing metrics for Backend Benchmarking
+    """Parses an archive containing metrics for Backend Benchmarking
 
     Args:
         filename (str): Filename of archive. Must end with the number of workers
@@ -106,7 +106,7 @@ def parse_result_zip(filename):
 
 
 def get_backend_results(backend, directory, wildcard="metrics_{backend}-*.zip"):
-    """ Parses all archives related to a backend
+    """Parses all archives related to a backend
 
     Args:
         backend (str): Backend to parse (mpi, gloo or nccl)
