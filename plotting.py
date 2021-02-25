@@ -29,6 +29,16 @@ RENAME = {
 }
 
 
+def to_float(val) -> float:
+    try:
+        data = float(val)
+    except ValueError as e:
+        val = val.replace("tensor(", "")
+        val = val.replace(", device='cuda:0')", "")
+        data = float(val)
+    return data
+
+
 def read_values(data: List[dict]) -> List[float]:
     """Reads and converts values from a List of dicts. Each dict should contain the key `value`
 
@@ -38,7 +48,7 @@ def read_values(data: List[dict]) -> List[float]:
     Returns:
         List of converted values to float
     """
-    data = [float(x["value"]) for x in data]
+    data = [to_float(x["value"]) for x in data]
     return data
 
 
@@ -61,7 +71,7 @@ def get_cum_times(
     file = os.path.splitext(file)[0]
     name, _, _ = file.replace(prefix, "").split()
 
-    return name, float(data[0]["value"]), num_workers
+    return name, to_float(data[0]["value"]), num_workers
 
 
 def get_all_cumulative_times(
@@ -302,8 +312,15 @@ def plot_speedups(
     data["speedup"] = data["value_y"] / data["value_x"]
 
     fig, ax = plt.subplots(figsize=(10, 8))
+    hue_order = sorted(data.backend.unique())
     g = sns.barplot(
-        x="num_workers", y="speedup", data=data, alpha=0.9, hue="backend", ax=ax
+        x="num_workers",
+        y="speedup",
+        data=data,
+        alpha=0.9,
+        hue="backend",
+        ax=ax,
+        hue_order=hue_order,
     )
 
     for p in g.patches:
